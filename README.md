@@ -1,5 +1,5 @@
 # 2htdp
-How to Design Programs - 2nd Edition (2htdp) Exercises and more.
+How to Design Programs - 2nd Edition (2htdp) exercises and more.
 
 ### Introduction
 This repository includes codes corresponding to [How to Design Programs - 2nd Edition](http://www.htdp.org/2018-01-06/Book/) exercises, along with any other related materials.
