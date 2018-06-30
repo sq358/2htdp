@@ -17,4 +17,4 @@ Please visit [drracket.org](https://drracket.org/) for detalis on installing DrR
 [3]: https://racket-lang.org
 
 ### Disclaimer
-The correctness of the codes are not guaranteed.
+The correctness of the codes is not guaranteed.
