@@ -102,8 +102,7 @@
 (check-expect (stop? 10) #false)
 (check-expect (stop? "resting") #false)
 (check-expect (stop? " ") #false)
-(check-expect (stop? -1) #false)
-(check-expect (stop? (* -1 (image-height ROCKET))) #true)
+(check-expect (stop? -1) #false) (check-expect (stop? (* -1 (image-height ROCKET))) #true)
 
 (define (stop? x)
   (cond
