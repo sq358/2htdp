@@ -1,4 +1,4 @@
-; Exercise 91.
+; Exercise 92.
 
 (require 2htdp/universe)
 

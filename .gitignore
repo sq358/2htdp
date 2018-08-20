@@ -1,0 +1,5 @@
+#ignore recovery files from DrRacket
+*~
+
+#ignore Mac's DS Store files
+.DS_Store
