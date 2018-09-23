@@ -1,8 +1,8 @@
 # 2htdp
-How to Design Programs - 2nd Edition (2htdp) exercises and more.
+How to Design Programs - 2nd Edition (2htdp) exercise solutions and more.
 
 ### Introduction
-This repository includes codes corresponding to [How to Design Programs - 2nd Edition](http://www.htdp.org/2018-01-06/Book/) exercises, along with any other related materials.
+This repository includes codes corresponding to [How to Design Programs - 2nd Edition](http://www.htdp.org/2018-01-06/Book/) exercise solutions, along with any other related materials.
 
 ### Development Environment Setup
 Please visit [drracket.org](https://drracket.org/) for detalis on installing DrRacket IDE for your platform.
