@@ -70,5 +70,3 @@
     [(armadillo? a) (>= s (armadillo-space a))]
     [(boa? a) #true]
     ))
-
-
